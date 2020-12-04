@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--  
-        Author: Jordan Gillispie
-        Date: 11/17/2020
-        Assignment: Files & Perms
+   <!--  
+        Author: Taylor Hamilton
+        Date: 11/16/2020
     -->
     <title>View Files</title>
 </head>
